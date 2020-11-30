@@ -1,7 +1,7 @@
 ## Hi there! 🖐 My name is Michal
 ### Code enthusiast, technology addict, amateur designer.
 
-I also am a husband, a father, a gamer and a great sleeper!  
+I am also a husband, a father, a gamer and a great sleeper!  
 Passionate about changing text into immersion, making things move, shine and pop.  
 Stuck between high-tech and fantasy books.  
 Living it up!
