@@ -8,7 +8,7 @@ Living it up!
 
 
 
-### 🙇‍♂️ What I focus on mostly in 2020:
+### 🙇‍♂️ What I focus on mostly in 2021:
   - 👨‍💻  Full Stack Web Development
   - 📱  Mobile apps development with Flutter
   - 🖥  Desktop apps development with Electron
