@@ -1,3 +1,4 @@
+
 ## Hi there! 🖐 My name is Michal
 ### Code enthusiast, technology addict, amateur designer.
 
@@ -26,11 +27,11 @@ Living it up!
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
+
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzdowski-design&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="uzdowski-design" /></p> 
-<br />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uzdowski-design&theme=vision-friendly-dark" alt="uzdowski-design" /></p>
----
+
+<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzdowski-design&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="uzdowski-design" /></p>
+<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=uzdowski-design&theme=vision-friendly-dark" alt="uzdowski-design" /></p>
+
 <br />
 <br />
