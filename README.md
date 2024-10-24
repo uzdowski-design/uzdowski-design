@@ -33,5 +33,4 @@ Living it up!
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzdowski-design&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="uzdowski-design" /></p>
 <p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=uzdowski-design&theme=vision-friendly-dark" alt="uzdowski-design" /></p>
 
-<br />
-<br />
+
